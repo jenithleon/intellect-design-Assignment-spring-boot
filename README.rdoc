@@ -3,3 +3,7 @@ This the screenshot for the post method,take a look on which i marked on the ima
 2.it returns the id
 
 ![post_return_id](https://user-images.githubusercontent.com/14081368/33260539-237cd9ac-d386-11e7-8e44-ee13f2e6eb5b.png)
+
+
+The second screenshot shows the exception for user exists
+![existing_user_validation](https://user-images.githubusercontent.com/14081368/33260653-87b41d22-d386-11e7-9ad7-fdfa636799d3.png)
